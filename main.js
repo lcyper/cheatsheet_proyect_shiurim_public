@@ -1,8 +1,3 @@
-// url =
-//   "https://www.chabad.org/webservices/Zmanim/CandleLighting/Load_CandleLightingWeeks?locationid=90&locationtype=1&save=1&tdate=6-1-2021";
-// let date = getCurrentDate();
-// let date = "7-4-2021";
-
 Date.prototype.toDateInputValue = (function() {
     var local = new Date(this);
     local.setMinutes(this.getMinutes() - this.getTimezoneOffset());
@@ -34,7 +29,7 @@ async function fetchDate(e) {
     }
     console.log(date);
     try {
-        let response = await fetch("/json/" + date + ".json");
+        let response = await fetch("https://lcyper.github.io/cheatsheet_proyect_shiurim_public/json/" + date + ".json");
         response = await response.json();
         json = response;
         console.log(json);
