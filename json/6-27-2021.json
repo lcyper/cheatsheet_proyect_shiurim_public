@@ -1,0 +1,110 @@
+{
+  "parasha": "Pinchas",
+  "fechaViernes": "Tammuz 22, 5781 - Friday, July 2, 2021",
+  "velas": [
+    { "locationName": "argentina - buenos aires", "time": "5:37 PM" },
+    { "locationName": "argentina - rosario", "time": "5:49 PM" },
+    { "locationName": "argentina - tucuman", "time": "6:22 PM" },
+    { "locationName": "chile - santiago", "time": "5:28 PM" },
+    { "locationName": "colombia - bogota", "time": "5:54 PM" },
+    { "locationName": "colombia - medellin", "time": "6:03 PM" },
+    { "locationName": "costa rica - san jose", "time": "5:43 PM" },
+    { "locationName": "españa - barcelona", "time": "9:11 PM" },
+    { "locationName": "españa - madrid", "time": "9:31 PM" },
+    { "locationName": "estados unidos - miami florida", "time": "7:58 PM" },
+    { "locationName": "israel - raanana", "time": "7:31 PM" },
+    { "locationName": "israel - ierushalaim", "time": "7:09 PM" },
+    { "locationName": "israel - migdal haemek", "time": "7:21 PM" },
+    { "locationName": "mexico - mexico city", "time": "8:01 PM" },
+    { "locationName": "panama - panama city", "time": "6:23 PM" },
+    { "locationName": "peru - lima", "time": "5:37 PM" },
+    { "locationName": "uruguay - montevideo", "time": "5:27 PM" },
+    { "locationName": "venezuela - caracas", "time": "6:36 PM" }
+  ],
+  "study": [
+    {
+      "day": 0,
+      "data": {
+        "3 Chapters:": "Avodat Kochavim - Chapter Four, Avodat Kochavim - Chapter Five, Avodat Kochavim - Chapter Six",
+        "1 Chapter:": "Arachim Vacharamim - Chapter 6",
+        "Daily Mitzvah:": "Negative Commandment 16, 17, 18, 19, 20, 21, 26, 28, 27, 29, 14, 8, 9, 7",
+        "date": "Sunday, 17 Tammuz 5781 / June 27, 2021",
+        "jumashPortion": "Parshat Pinchas, 1st Portion (Numbers 25:10-26:4)",
+        "tehilimPortion": "Chapters 83-87",
+        "taniaPortion": "Igeret HaTeshuva, Chapter 5"
+      }
+    },
+    {
+      "day": 1,
+      "data": {
+        "3 Chapters:": "Avodat Kochavim - Chapter Seven, Avodat Kochavim - Chapter Eight, Avodat Kochavim - Chapter Nine",
+        "1 Chapter:": "Arachim Vacharamim - Chapter 7",
+        "Daily Mitzvah:": "Negative Commandment 11, 12, 13; Positive Commandment 185; Negative Commandment 25, 22, 48, 50, 51, 30, 33, 31, 32",
+        "date": "Monday, 18 Tammuz 5781 / June 28, 2021",
+        "jumashPortion": "Parshat Pinchas, 2nd Portion (Numbers 26:5-26:51)",
+        "tehilimPortion": "Chapters 88-89",
+        "taniaPortion": "Igeret HaTeshuva, beginning of Chapter 6"
+      }
+    },
+    {
+      "day": 2,
+      "data": {
+        "3 Chapters:": "Avodat Kochavim - Chapter Ten, Avodat Kochavim - Chapter Eleven, Avodat Kochavim - Chapter Twelve",
+        "1 Chapter:": "Arachim Vacharamim - Chapter 8",
+        "Daily Mitzvah:": "Negative Commandment 35, 38, 36, 37, 34, 43, 44, 40, 39, 41, 45, 171",
+        "date": "Tuesday, 19 Tammuz 5781 / June 29, 2021",
+        "jumashPortion": "Parshat Pinchas, 3rd Portion (Numbers 26:52-27:5)",
+        "tehilimPortion": "Chapters 90-96",
+        "taniaPortion": "Igeret HaTeshuva, end of Chapter 6"
+      }
+    },
+    {
+      "day": 3,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter One, Teshuvah - Chapter Two, Teshuvah - Chapter Three",
+        "1 Chapter:": "Kilaayim - Chapter 1",
+        "Daily Mitzvah:": "Positive Commandment 73",
+        "date": "Wednesday, 20 Tammuz 5781 / June 30, 2021",
+        "jumashPortion": "Parshat Pinchas, 4th Portion (Numbers 27:6-27:23)",
+        "tehilimPortion": "Chapters 97-103",
+        "taniaPortion": "Igeret HaTeshuva, beginning of Chapter 7"
+      }
+    },
+    {
+      "day": 4,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter Four, Teshuvah - Chapter Five, Teshuvah - Chapter Six",
+        "1 Chapter:": "Kilaayim - Chapter 2",
+        "Daily Mitzvah:": "Positive Commandment 73",
+        "date": "Thursday, 21 Tammuz 5781 / July 1, 2021",
+        "jumashPortion": "Parshat Pinchas, 5th Portion (Numbers 28:1-28:15)",
+        "tehilimPortion": "Chapters 104-105",
+        "taniaPortion": "Igeret HaTeshuva, middle of Chapter 7"
+      }
+    },
+    {
+      "day": 5,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter Seven, Teshuvah - Chapter Eight, Teshuvah - Chapter Nine",
+        "1 Chapter:": "Kilaayim - Chapter 3",
+        "Daily Mitzvah:": "Positive Commandment 73",
+        "date": "Friday, 22 Tammuz 5781 / July 2, 2021",
+        "jumashPortion": "Parshat Pinchas, 6th Portion (Numbers 28:16-29:11)",
+        "tehilimPortion": "Chapters 106-107",
+        "taniaPortion": "Igeret HaTeshuva, end of Chapter 7"
+      }
+    },
+    {
+      "day": 6,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter Ten, Kri'at Shema - Chapter One, Kri'at Shema - Chapter Two",
+        "1 Chapter:": "Kilaayim - Chapter 4",
+        "Daily Mitzvah:": "Positive Commandment 73, 10",
+        "date": "Shabbat, 23 Tammuz 5781 / July 3, 2021",
+        "jumashPortion": "Parshat Pinchas, 7th Portion (Numbers 29:12-30:1)",
+        "tehilimPortion": "Chapters 108-112",
+        "taniaPortion": "Igeret HaTeshuva, beginning of Chapter 8"
+      }
+    }
+  ]
+}

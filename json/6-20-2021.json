@@ -1,0 +1,24 @@
+{
+  "parasha": "Balak",
+  "fechaViernes": "Tammuz 15, 5781 - Friday, June 25, 2021",
+  "velas": [
+    { "locationName": "argentina - buenos aires", "time": "5:34 PM" },
+    { "locationName": "argentina - rosario", "time": "5:47 PM" },
+    { "locationName": "argentina - tucuman", "time": "6:19 PM" },
+    { "locationName": "chile - santiago", "time": "5:26 PM" },
+    { "locationName": "colombia - bogota", "time": "5:53 PM" },
+    { "locationName": "colombia - medellin", "time": "6:02 PM" },
+    { "locationName": "costa rica - san jose", "time": "5:42 PM" },
+    { "locationName": "españa - barcelona", "time": "9:11 PM" },
+    { "locationName": "españa - madrid", "time": "9:31 PM" },
+    { "locationName": "estados unidos - miami florida", "time": "7:58 PM" },
+    { "locationName": "israel - raanana", "time": "7:31 PM" },
+    { "locationName": "israel - ierushalaim", "time": "7:08 PM" },
+    { "locationName": "israel - migdal haemek", "time": "7:21 PM" },
+    { "locationName": "mexico - mexico city", "time": "8:00 PM" },
+    { "locationName": "panama - panama city", "time": "6:22 PM" },
+    { "locationName": "peru - lima", "time": "5:36 PM" },
+    { "locationName": "uruguay - montevideo", "time": "5:24 PM" },
+    { "locationName": "venezuela - caracas", "time": "6:35 PM" }
+  ]
+}

@@ -1,0 +1,26 @@
+body {
+
+  text-align: center;
+  align-items: center;
+  /* justify-content: center; */
+  background-color: #e5e5e5;
+  width: fit-content;
+  margin: 2em auto;
+}
+body section#info{
+  display: none;
+}
+table {
+  margin: auto;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 0.5em;
+}
+
+table tr {
+  text-align: start;
+}
