@@ -1,22 +1,26 @@
-Date.prototype.toDateInputValue = (function() {
+Date.prototype.toDateInputValue = (function () {
     var local = new Date(this);
     local.setMinutes(this.getMinutes() - this.getTimezoneOffset());
-    return local.toJSON().slice(0,10);
+    return local.toJSON().slice(0, 10);
 });
 let inputDatePicker = document.querySelector("input#fechaSemana");
 window.onload = function () {
     inputDatePicker.value = new Date().toDateInputValue();
     fetchDate(inputDatePicker)
- };
+};
 
- inputDatePicker.addEventListener("change", fetchDate, false);
+inputDatePicker.addEventListener("change", fetchDate, false);
 
 async function fetchDate(e) {
     let inputValue = e.target ? e.target.value : e.value; // yyyy-mm-dd
-    let dayOfTheWeek = e.target ? e.target.valueAsDate.getUTCDay() :e.valueAsDate.getUTCDay();
+    let dayOfTheWeek = e.target ? e.target.valueAsDate.getUTCDay() : e.valueAsDate.getUTCDay();
     let [yyyy, m, d] = inputValue.split("-");
-    m = m.replaceAll("0", "");
-    d = d.replaceAll("0", "");
+    if (m.startsWith("0")) {
+        m = m.replaceAll("0", "");
+    }
+    if (d.startsWith("0")) {
+        d = d.replaceAll("0", "");
+    }
     let date = m + "-" + d + "-" + yyyy;
     if (dayOfTheWeek != 0) {
         let diference = dayOfTheWeek - 7;
