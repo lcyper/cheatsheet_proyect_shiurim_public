@@ -44,7 +44,7 @@ async function fetchDate(e) {
   console.log("file: ", date);
   try {
     // los archivos tienen la fecha del domingo (dia de inicio de la semana 0)
-    let response = await fetch("/json/" + date + ".json");
+    let response = await fetch("./json/" + date + ".json");
     response = await response.json();
     json = response;
     console.log(json);
