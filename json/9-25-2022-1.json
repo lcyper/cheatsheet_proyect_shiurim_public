@@ -1,0 +1,110 @@
+{
+  "parasha": "Rosh Hashanah",
+  "fechaViernes": "Elul 29, 5782 - Sunday, September 25, 2022",
+  "velas": [
+    { "locationName": "argentina - buenos aires", "time": "6:34 PM" },
+    { "locationName": "argentina - rosario", "time": "6:43 PM" },
+    { "locationName": "argentina - tucuman", "time": "7:00 PM" },
+    { "locationName": "chile - santiago", "time": "7:23 PM" },
+    { "locationName": "colombia - bogota", "time": "5:33 PM" },
+    { "locationName": "colombia - medellin", "time": "5:39 PM" },
+    { "locationName": "costa rica - san jose", "time": "5:12 PM" },
+    { "locationName": "españa - barcelona", "time": "7:27 PM" },
+    { "locationName": "españa - madrid", "time": "7:49 PM" },
+    { "locationName": "estados unidos - miami florida", "time": "6:56 PM" },
+    { "locationName": "israel - raanana", "time": "6:14 PM" },
+    { "locationName": "israel - ierushalaim", "time": "5:52 PM" },
+    { "locationName": "israel - migdal haemek", "time": "6:02 PM" },
+    { "locationName": "mexico - mexico city", "time": "7:12 PM" },
+    { "locationName": "panama - panama city", "time": "5:54 PM" },
+    { "locationName": "peru - lima", "time": "5:46 PM" },
+    { "locationName": "uruguay - montevideo", "time": "6:25 PM" },
+    { "locationName": "venezuela - caracas", "time": "6:04 PM" }
+  ],
+  "study": [
+    {
+      "day": 0,
+      "data": {
+        "3 Chapters:": "Terumot - Chapter 13, Terumot - Chapter 14, Terumot - Chapter 15",
+        "1 Chapter:": "Mechirah - Chapter Twenty Two",
+        "Daily Mitzvah:": "Day 130: Negative Commandment 137",
+        "date": "Sunday, 29 Elul 5782 / September 25, 2022",
+        "jumashPortion": "Parshat Vayelech, 1st Portion (Deuteronomy 31:1-31:3)",
+        "tehilimPortion": "Chapters 140-150",
+        "taniaPortion": "Iggeret HaKodesh, end of Epistle 19"
+      }
+    },
+    {
+      "day": 1,
+      "data": {
+        "3 Chapters:": "Maaser - Chapter 1, Maaser - Chapter 2, Maaser - Chapter 3",
+        "1 Chapter:": "Mechirah - Chapter Twenty Three",
+        "Daily Mitzvah:": "Day 131: Positive Commandment 127",
+        "date": "Monday, 1 Tishrei 5783 / September 26, 2022",
+        "jumashPortion": "Parshat Vayelech, 2nd Portion (Deuteronomy 31:4-31:6)",
+        "tehilimPortion": "Chapters 1-9",
+        "taniaPortion": "Iggeret HaKodesh, beginning of Epistle 20"
+      }
+    },
+    {
+      "day": 2,
+      "data": {
+        "3 Chapters:": "Maaser - Chapter 4, Maaser - Chapter 5, Maaser - Chapter 6",
+        "1 Chapter:": "Mechirah - Chapter Twenty Four",
+        "Daily Mitzvah:": "Day 132: Positive Commandment 127",
+        "date": "Tuesday, 2 Tishrei 5783 / September 27, 2022",
+        "jumashPortion": "Parshat Vayelech, 3rd Portion (Deuteronomy 31:7-31:9)",
+        "tehilimPortion": "Chapters 10-17",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 20"
+      }
+    },
+    {
+      "day": 3,
+      "data": {
+        "3 Chapters:": "Maaser - Chapter 7, Maaser - Chapter 8, Maaser - Chapter 9",
+        "1 Chapter:": "Mechirah - Chapter Twenty Five",
+        "Daily Mitzvah:": "Day 133: Positive Commandment 127",
+        "date": "Wednesday, 3 Tishrei 5783 / September 28, 2022",
+        "jumashPortion": "Parshat Vayelech, 4th Portion (Deuteronomy 31:10-31:13)",
+        "tehilimPortion": "Chapters 18-22",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 20"
+      }
+    },
+    {
+      "day": 4,
+      "data": {
+        "3 Chapters:": "Maaser - Chapter 10, Maaser - Chapter 11, Maaser - Chapter 12",
+        "1 Chapter:": "Mechirah - Chapter Twenty Six",
+        "Daily Mitzvah:": "Day 134: Positive Commandment 127",
+        "date": "Thursday, 4 Tishrei 5783 / September 29, 2022",
+        "jumashPortion": "Parshat Vayelech, 5th Portion (Deuteronomy 31:14-31:19)",
+        "tehilimPortion": "Chapters 23-28",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 20"
+      }
+    },
+    {
+      "day": 5,
+      "data": {
+        "3 Chapters:": "Maaser - Chapter 13, Maaser - Chapter 14, Maaser Sheini - Chapter 1",
+        "1 Chapter:": "Mechirah - Chapter Twenty Seven",
+        "Daily Mitzvah:": "Day 135: Positive Commandment 127, 128; Negative Commandment 152",
+        "date": "Friday, 5 Tishrei 5783 / September 30, 2022",
+        "jumashPortion": "Parshat Vayelech, 6th Portion (Deuteronomy 31:20-31:24)",
+        "tehilimPortion": "Chapters 29-34",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 20"
+      }
+    },
+    {
+      "day": 6,
+      "data": {
+        "3 Chapters:": "Maaser Sheini - Chapter 2, Maaser Sheini - Chapter 3, Maaser Sheini - Chapter 4",
+        "1 Chapter:": "Mechirah - Chapter Twenty Eight",
+        "Daily Mitzvah:": "Day 136: Negative Commandment 150, 151",
+        "date": "Shabbat, 6 Tishrei 5783 / October 1, 2022",
+        "jumashPortion": "Parshat Vayelech, 7th Portion (Deuteronomy 31:25-31:30)",
+        "tehilimPortion": "Chapters 35-38",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 20"
+      }
+    }
+  ]
+}

@@ -24,3 +24,14 @@ td {
 table tr {
   text-align: start;
 }
+table#encendido_velas th.candlesDate {
+  max-width: 180px;
+  background-color: lightgray;
+}
+table#encendido_velas td.time {
+  text-align: center;
+  font-size: 1.3em;
+}
+table#encendido_velas td.locationName{
+  font-size: 1.3em;
+}

@@ -1,1 +1,266 @@
-{"parasha":"Sukkot","fechaViernes":"Tishrei 14, 5783 - Sunday, October 9, 2022","velas":[{"locationName":"argentina - buenos aires","time":"6:45 PM"},{"locationName":"argentina - rosario","time":"6:53 PM"},{"locationName":"argentina - tucuman","time":"7:07 PM"},{"locationName":"chile - santiago","time":"7:33 PM"},{"locationName":"colombia - bogota","time":"5:27 PM"},{"locationName":"colombia - medellin","time":"5:32 PM"},{"locationName":"costa rica - san jose","time":"5:04 PM"},{"locationName":"españa - barcelona","time":"7:03 PM"},{"locationName":"españa - madrid","time":"7:26 PM"},{"locationName":"estados unidos - miami florida","time":"6:41 PM"},{"locationName":"israel - raanana","time":"5:55 PM"},{"locationName":"israel - ierushalaim","time":"5:34 PM"},{"locationName":"israel - migdal haemek","time":"5:44 PM"},{"locationName":"mexico - mexico city","time":"7:00 PM"},{"locationName":"panama - panama city","time":"5:47 PM"},{"locationName":"peru - lima","time":"5:46 PM"},{"locationName":"uruguay - montevideo","time":"6:36 PM"},{"locationName":"venezuela - caracas","time":"5:55 PM"}],"study":[{"day":0,"data":{"3 Chapters:":"Shemita - Chapter 3, Shemita - Chapter 4, Shemita - Chapter 5","1 Chapter:":"Zechiyah uMattanah - Chapter Six","Daily Mitzvah:":"Day 144: Negative Commandment 223; Positive Commandment 134, 141; Negative Commandment 230, 231","date":"Sunday, 14 Tishrei 5783 / October 9, 2022","jumashPortion":"Parshat Vezot Hab'rachah, 1st Portion (Deuteronomy 33:1-33:7)","tehilimPortion":"Chapters 72-76","taniaPortion":"Iggeret HaKodesh, middle of Epistle 22"}},{"day":1,"data":{"3 Chapters:":"Shemita - Chapter 6, Shemita - Chapter 7, Shemita - Chapter 8","1 Chapter:":"Zechiyah uMattanah - Chapter Seven","Daily Mitzvah:":"Day 145: Positive Commandment 140, 136, 137; Negative Commandment 224, 225, 226","date":"Monday, 15 Tishrei 5783 / October 10, 2022","jumashPortion":"Parshat Vezot Hab'rachah, 2nd Portion (Deuteronomy 33:8-33:12)","tehilimPortion":"Chapters 77-78","taniaPortion":"Iggeret HaKodesh, middle of Epistle 22"}},{"day":2,"data":{"3 Chapters:":"Shemita - Chapter 9, Shemita - Chapter 10, Shemita - Chapter 11","1 Chapter:":"Zechiyah uMattanah - Chapter Eight","Daily Mitzvah:":"Day 146: Positive Commandment 138; Negative Commandment 227; Positive Commandment 139","date":"Tuesday, 16 Tishrei 5783 / October 11, 2022","jumashPortion":"Parshat Vezot Hab'rachah, 3rd Portion (Deuteronomy 33:13-33:17)","tehilimPortion":"Chapters 79-82","taniaPortion":"Iggeret HaKodesh, end of Epistle 22"}},{"day":3,"data":{"3 Chapters:":"Shemita - Chapter 12, Shemita - Chapter 13, Beit Habechirah - Chapter 1","1 Chapter:":"Zechiyah uMattanah - Chapter Nine","Daily Mitzvah:":"Day 147: Negative Commandment 169, 170; Positive Commandment 183; Negative Commandment 228; Positive Commandment 20","date":"Wednesday, 17 Tishrei 5783 / October 12, 2022","jumashPortion":"Parshat Vezot Hab'rachah, 4th Portion (Deuteronomy 33:18-33:21)","tehilimPortion":"Chapters 83-87","taniaPortion":"Iggeret HaKodesh, beginning of Epistle 23"}},{"day":4,"data":{"3 Chapters:":"Beit Habechirah - Chapter 2, Beit Habechirah - Chapter 3, Beit Habechirah - Chapter 4","1 Chapter:":"Zechiyah uMattanah - Chapter Ten","Daily Mitzvah:":"Day 148: Negative Commandment 79, 80","date":"Thursday, 18 Tishrei 5783 / October 13, 2022","jumashPortion":"Parshat Vezot Hab'rachah, 5th Portion (Deuteronomy 33:22-33:26)","tehilimPortion":"Chapters 88-89","taniaPortion":"Iggeret HaKodesh, middle of Epistle 23"}},{"day":5,"data":{"3 Chapters:":"Beit Habechirah - Chapter 5, Beit Habechirah - Chapter 6, Beit Habechirah - Chapter 7","1 Chapter:":"Zechiyah uMattanah - Chapter Eleven","Daily Mitzvah:":"Day 149: Positive Commandment 21","date":"Friday, 19 Tishrei 5783 / October 14, 2022","jumashPortion":"Parshat Vezot Hab'rachah, 6th Portion (Deuteronomy 33:27-33:29)","tehilimPortion":"Chapters 90-96","taniaPortion":"Iggeret HaKodesh, middle of Epistle 23"}},{"day":6,"data":{"3 Chapters:":"Beit Habechirah - Chapter 8, Klei Hamikdash - Chapter 1, Klei Hamikdash - Chapter 2","1 Chapter:":"Zechiyah uMattanah - Chapter Twelve","Daily Mitzvah:":"Day 150: Positive Commandment 22; Negative Commandment 67; Positive Commandment 35; Negative Commandment 83, 84","date":"Shabbat, 20 Tishrei 5783 / October 15, 2022","jumashPortion":"Parshat Vezot Hab'rachah, 7th Portion (Deuteronomy 34:1-34:12)","tehilimPortion":"Chapters 97-103","taniaPortion":"Iggeret HaKodesh, middle of Epistle 23"}}]}
+{
+  "parasha": "Sukkot - undefined",
+  "fechaViernes": "Tishrei 14, 5783 - Sunday, October 9, 2022",
+  "velas": [
+    {
+      "locationName": "argentina - buenos aires",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "6:45 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "7:42 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "6:49 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "6:51 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "7:48 PM"
+      }
+    },
+    {
+      "locationName": "argentina - rosario",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "6:53 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "7:49 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "6:56 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "6:58 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "7:55 PM"
+      }
+    },
+    {
+      "locationName": "argentina - tucuman",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "7:07 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "8:00 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "7:10 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "7:11 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "8:05 PM"
+      }
+    },
+    {
+      "locationName": "chile - santiago",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "7:33 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "8:29 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "7:37 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "7:39 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "8:35 PM"
+      }
+    },
+    {
+      "locationName": "colombia - bogota",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:27 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "6:15 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:25 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:24 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "6:13 PM"
+      }
+    },
+    {
+      "locationName": "colombia - medellin",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:32 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "6:21 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:30 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:29 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "6:18 PM"
+      }
+    },
+    {
+      "locationName": "costa rica - san jose",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:04 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "5:53 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:02 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:01 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "5:50 PM"
+      }
+    },
+    {
+      "locationName": "españa - barcelona",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "7:03 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "8:01 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "6:55 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "6:52 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "7:50 PM"
+      }
+    },
+    {
+      "locationName": "españa - madrid",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "7:26 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "8:23 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "7:18 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "7:15 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "8:13 PM"
+      }
+    },
+    {
+      "locationName": "estados unidos - miami florida",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "6:41 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "7:32 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "6:36 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "6:34 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "7:26 PM"
+      }
+    },
+    {
+      "locationName": "israel - raanana",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:55 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:49 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:47 PM"
+      }
+    },
+    {
+      "locationName": "israel - ierushalaim",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:34 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:28 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:26 PM"
+      }
+    },
+    {
+      "locationName": "israel - migdal haemek",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:44 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:38 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:35 PM"
+      }
+    },
+    {
+      "locationName": "mexico - mexico city",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "7:00 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "7:50 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "6:56 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "6:55 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "7:45 PM"
+      }
+    },
+    {
+      "locationName": "panama - panama city",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:47 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "6:35 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:44 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:43 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "6:32 PM"
+      }
+    },
+    {
+      "locationName": "peru - lima",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:46 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "6:36 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:47 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:47 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "6:37 PM"
+      }
+    },
+    {
+      "locationName": "uruguay - montevideo",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "6:36 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "7:33 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "6:40 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "6:42 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "7:40 PM"
+      }
+    },
+    {
+      "locationName": "venezuela - caracas",
+      "time": {
+        "Tishrei 14, 5783 - Sunday, October 9, 2022": "5:55 PM",
+        "Tishrei 15, 5783 - Monday, October 10, 2022": "6:44 PM",
+        "Tishrei 19, 5783 - Friday, October 14, 2022": "5:53 PM",
+        "Tishrei 21, 5783 - Sunday, October 16, 2022": "5:52 PM",
+        "Tishrei 22, 5783 - Monday, October 17, 2022": "6:41 PM"
+      }
+    }
+  ],
+  "study": [
+    {
+      "day": 0,
+      "data": {
+        "3 Chapters:": "Shemita - Chapter 3, Shemita - Chapter 4, Shemita - Chapter 5",
+        "1 Chapter:": "Zechiyah uMattanah - Chapter Six",
+        "Daily Mitzvah:": "Day 144: Negative Commandment 223; Positive Commandment 134, 141; Negative Commandment 230, 231",
+        "date": "Sunday, 14 Tishrei 5783 / October 9, 2022",
+        "jumashPortion": "Parshat Vezot Hab'rachah, 1st Portion (Deuteronomy 33:1-33:7)",
+        "tehilimPortion": "Chapters 72-76",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 22"
+      }
+    },
+    {
+      "day": 1,
+      "data": {
+        "3 Chapters:": "Shemita - Chapter 6, Shemita - Chapter 7, Shemita - Chapter 8",
+        "1 Chapter:": "Zechiyah uMattanah - Chapter Seven",
+        "Daily Mitzvah:": "Day 145: Positive Commandment 140, 136, 137; Negative Commandment 224, 225, 226",
+        "date": "Monday, 15 Tishrei 5783 / October 10, 2022",
+        "jumashPortion": "Parshat Vezot Hab'rachah, 2nd Portion (Deuteronomy 33:8-33:12)",
+        "tehilimPortion": "Chapters 77-78",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 22"
+      }
+    },
+    {
+      "day": 2,
+      "data": {
+        "3 Chapters:": "Shemita - Chapter 9, Shemita - Chapter 10, Shemita - Chapter 11",
+        "1 Chapter:": "Zechiyah uMattanah - Chapter Eight",
+        "Daily Mitzvah:": "Day 146: Positive Commandment 138; Negative Commandment 227; Positive Commandment 139",
+        "date": "Tuesday, 16 Tishrei 5783 / October 11, 2022",
+        "jumashPortion": "Parshat Vezot Hab'rachah, 3rd Portion (Deuteronomy 33:13-33:17)",
+        "tehilimPortion": "Chapters 79-82",
+        "taniaPortion": "Iggeret HaKodesh, end of Epistle 22"
+      }
+    },
+    {
+      "day": 3,
+      "data": {
+        "3 Chapters:": "Shemita - Chapter 12, Shemita - Chapter 13, Beit Habechirah - Chapter 1",
+        "1 Chapter:": "Zechiyah uMattanah - Chapter Nine",
+        "Daily Mitzvah:": "Day 147: Negative Commandment 169, 170; Positive Commandment 183; Negative Commandment 228; Positive Commandment 20",
+        "date": "Wednesday, 17 Tishrei 5783 / October 12, 2022",
+        "jumashPortion": "Parshat Vezot Hab'rachah, 4th Portion (Deuteronomy 33:18-33:21)",
+        "tehilimPortion": "Chapters 83-87",
+        "taniaPortion": "Iggeret HaKodesh, beginning of Epistle 23"
+      }
+    },
+    {
+      "day": 4,
+      "data": {
+        "3 Chapters:": "Beit Habechirah - Chapter 2, Beit Habechirah - Chapter 3, Beit Habechirah - Chapter 4",
+        "1 Chapter:": "Zechiyah uMattanah - Chapter Ten",
+        "Daily Mitzvah:": "Day 148: Negative Commandment 79, 80",
+        "date": "Thursday, 18 Tishrei 5783 / October 13, 2022",
+        "jumashPortion": "Parshat Vezot Hab'rachah, 5th Portion (Deuteronomy 33:22-33:26)",
+        "tehilimPortion": "Chapters 88-89",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 23"
+      }
+    },
+    {
+      "day": 5,
+      "data": {
+        "3 Chapters:": "Beit Habechirah - Chapter 5, Beit Habechirah - Chapter 6, Beit Habechirah - Chapter 7",
+        "1 Chapter:": "Zechiyah uMattanah - Chapter Eleven",
+        "Daily Mitzvah:": "Day 149: Positive Commandment 21",
+        "date": "Friday, 19 Tishrei 5783 / October 14, 2022",
+        "jumashPortion": "Parshat Vezot Hab'rachah, 6th Portion (Deuteronomy 33:27-33:29)",
+        "tehilimPortion": "Chapters 90-96",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 23"
+      }
+    },
+    {
+      "day": 6,
+      "data": {
+        "3 Chapters:": "Beit Habechirah - Chapter 8, Klei Hamikdash - Chapter 1, Klei Hamikdash - Chapter 2",
+        "1 Chapter:": "Zechiyah uMattanah - Chapter Twelve",
+        "Daily Mitzvah:": "Day 150: Positive Commandment 22; Negative Commandment 67; Positive Commandment 35; Negative Commandment 83, 84",
+        "date": "Shabbat, 20 Tishrei 5783 / October 15, 2022",
+        "jumashPortion": "Parshat Vezot Hab'rachah, 7th Portion (Deuteronomy 34:1-34:12)",
+        "tehilimPortion": "Chapters 97-103",
+        "taniaPortion": "Iggeret HaKodesh, middle of Epistle 23"
+      }
+    }
+  ]
+}
