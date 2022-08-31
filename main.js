@@ -178,6 +178,7 @@ function putData(json) {
             "Negative Commandment",
             "N"
           );
+          elem.data[key] = elem.data[key].split(":")[1].trim();
 
           rambam_sefer_hamitzvot.appendChild(tr);
           break;
