@@ -1,5 +1,4 @@
 body {
-
   text-align: center;
   align-items: center;
   /* justify-content: center; */
@@ -30,8 +29,4 @@ table#encendido_velas th.candlesDate {
 }
 table#encendido_velas td.time {
   text-align: center;
-  font-size: 1.3em;
-}
-table#encendido_velas td.locationName{
-  font-size: 1.3em;
 }
