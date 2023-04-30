@@ -1,1 +1,415 @@
-{"parasha":"Behaalotecha","fechaViernes":"Sivan 20, 5783 - Friday, June 9, 2023","study":[{"day":0,"data":{"3 Chapters:":"Shabbat - Chapter Eighteen, Shabbat - Chapter Nineteen, Shabbat - Chapter Twenty","1 Chapter:":"Avodat Kochavim - Chapter Seven","Daily Mitzvah:":"Day 43: Negative Commandment 321","date":"Sunday, 15 Sivan 5783 / June 4, 2023","jumashPortion":"Parshat Behaalotecha, 1st Portion (Numbers 8:1-8:14)","tehilimPortion":"Chapters 77-78","taniaPortion":"Shaar Hayichud Vehaemunah, Chapter 5"}},{"day":1,"data":{"3 Chapters:":"Shabbat - Chapter Twenty One, Shabbat - Chapter Twenty Two, Shabbat - Chapter Twenty Three","1 Chapter:":"Avodat Kochavim - Chapter Eight","Daily Mitzvah:":"Day 44: Negative Commandment 321","date":"Monday, 16 Sivan 5783 / June 5, 2023","jumashPortion":"Parshat Behaalotecha, 2nd Portion (Numbers 8:15-8:26)","tehilimPortion":"Chapters 79-82","taniaPortion":"Shaar Hayichud Vehaemunah, beginning of Chapter 6"}},{"day":2,"data":{"3 Chapters:":"Shabbat - Chapter Twenty Four, Shabbat - Chapter Twenty Five, Shabbat - Chapter Twenty Six","1 Chapter:":"Avodat Kochavim - Chapter Nine","Daily Mitzvah:":"Day 45: Positive Commandment 155","date":"Tuesday, 17 Sivan 5783 / June 6, 2023","jumashPortion":"Parshat Behaalotecha, 3rd Portion (Numbers 9:1-9:14)","tehilimPortion":"Chapters 83-87","taniaPortion":"Shaar Hayichud Vehaemunah, middle of Chapter 6"}},{"day":3,"data":{"3 Chapters:":"Shabbat - Chapter Twenty Seven, Shabbat - Chapter Twenty Eight, Shabbat - Chapter Twenty Nine","1 Chapter:":"Avodat Kochavim - Chapter Ten","Daily Mitzvah:":"Day 46: Positive Commandment 155","date":"Wednesday, 18 Sivan 5783 / June 7, 2023","jumashPortion":"Parshat Behaalotecha, 4th Portion (Numbers 9:15-10:10)","tehilimPortion":"Chapters 88-89","taniaPortion":"Shaar Hayichud Vehaemunah, end of Chapter 6"}},{"day":4,"data":{"3 Chapters:":"Shabbat - Chapter Thirty, Eruvin - Chapter One, Eruvin - Chapter Two","1 Chapter:":"Avodat Kochavim - Chapter Eleven","Daily Mitzvah:":"Day 47: Positive Commandment 155","date":"Thursday, 19 Sivan 5783 / June 8, 2023","jumashPortion":"Parshat Behaalotecha, 5th Portion (Numbers 10:11-10:34)","tehilimPortion":"Chapters 90-96","taniaPortion":"Shaar Hayichud Vehaemunah, beginning of Chapter 7"}},{"day":5,"data":{"3 Chapters:":"Eruvin - Chapter Three, Eruvin - Chapter Four, Eruvin - Chapter Five","1 Chapter:":"Avodat Kochavim - Chapter Twelve","Daily Mitzvah:":"Day 48: Negative Commandment 320","date":"Friday, 20 Sivan 5783 / June 9, 2023","jumashPortion":"Parshat Behaalotecha, 6th Portion (Numbers 10:35-11:29)","tehilimPortion":"Chapters 97-103","taniaPortion":"Shaar Hayichud Vehaemunah, middle of Chapter 7"}},{"day":6,"data":{"3 Chapters:":"Eruvin - Chapter Six, Eruvin - Chapter Seven, Eruvin - Chapter Eight","1 Chapter:":"Teshuvah - Chapter One","Daily Mitzvah:":"Day 49: Negative Commandment 321","date":"Shabbat, 21 Sivan 5783 / June 10, 2023","jumashPortion":"Parshat Behaalotecha, 7th Portion (Numbers 11:30-12:16)","tehilimPortion":"Chapters 104-105","taniaPortion":"Shaar Hayichud Vehaemunah, middle of Chapter 7"}}],"velas":[{"locationName":"argentina - buenos aires","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:32 PM"}},{"locationName":"argentina - rosario","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:45 PM"}},{"locationName":"argentina - tucuman","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"6:17 PM"}},{"locationName":"chile - santiago","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:23 PM"}},{"locationName":"colombia - bogota","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:49 PM"}},{"locationName":"colombia - medellin","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:58 PM"}},{"locationName":"costa rica - san jose","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:38 PM"}},{"locationName":"españa - barcelona","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"9:07 PM"}},{"locationName":"españa - madrid","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"9:26 PM"}},{"locationName":"estados unidos - miami florida","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"7:53 PM"}},{"locationName":"israel - raanana","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"7:26 PM"}},{"locationName":"israel - ierushalaim","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"7:04 PM"}},{"locationName":"israel - migdal haemek","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"7:16 PM"}},{"locationName":"mexico - mexico city","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"7:56 PM"}},{"locationName":"panama - panama city","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"6:18 PM"}},{"locationName":"peru - lima","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:32 PM"}},{"locationName":"uruguay - montevideo","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"5:22 PM"}},{"locationName":"venezuela - caracas","time":{"Sivan 20, 5783 - Friday, June 9, 2023":"6:31 PM"}}]}
+{
+  "parasha": "Behaalotecha",
+  "fechaViernes": "Sivan 20, 5783 - Friday, June 9, 2023",
+  "velas": [
+    {
+      "locationName": "argentina - buenos aires",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:31 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:31 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - cordoba",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:02 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:00 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "6:03 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "7:00 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - rosario",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:45 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:43 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "5:45 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:43 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - tucuman",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:17 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:12 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "6:17 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "7:13 PM"
+        }
+      }
+    },
+    {
+      "locationName": "chile - santiago",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:23 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:22 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "5:24 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:22 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - bogota",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:49 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:41 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "5:51 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:43 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - medellin",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:58 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:50 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "6:00 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:52 PM"
+        }
+      }
+    },
+    {
+      "locationName": "costa rica - san jose",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:38 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:31 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "5:40 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:33 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - barcelona",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "9:07 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "10:16 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "9:10 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "10:20 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - madrid",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "9:26 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "10:34 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "9:29 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "10:37 PM"
+        }
+      }
+    },
+    {
+      "locationName": "estados unidos - miami florida",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:53 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:51 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "7:56 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "8:53 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - raanana",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:26 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:29 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "7:29 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "8:32 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - ierushalaim",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:04 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:26 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "7:06 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "8:29 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - migdal haemek",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:16 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:29 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "7:19 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "8:32 PM"
+        }
+      }
+    },
+    {
+      "locationName": "mexico - mexico city",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:56 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:51 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "6:58 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "7:53 PM"
+        }
+      }
+    },
+    {
+      "locationName": "panama - panama city",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:18 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:11 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "6:20 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "7:13 PM"
+        }
+      }
+    },
+    {
+      "locationName": "peru - lima",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:25 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "5:34 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:26 PM"
+        }
+      }
+    },
+    {
+      "locationName": "uruguay - montevideo",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:22 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:21 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "5:22 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "6:21 PM"
+        }
+      }
+    },
+    {
+      "locationName": "venezuela - caracas",
+      "time": {
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:31 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:23 PM"
+        },
+        "Sivan 27, 5783 - Friday, June 16, 2023": {
+          "Candle Lighting": "6:33 PM"
+        },
+        "Sivan 28, 5783 - Saturday, June 17, 2023": {
+          "Shabbat Ends": "7:25 PM"
+        }
+      }
+    }
+  ],
+  "study": [
+    {
+      "day": 0,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Eighteen, Shabbat - Chapter Nineteen, Shabbat - Chapter Twenty",
+        "1 Chapter:": "Avodat Kochavim - Chapter Seven",
+        "Daily Mitzvah:": "Day 43: Negative Commandment 321",
+        "date": "Sunday, 15 Sivan 5783 / June 4, 2023",
+        "jumashPortion": "Parshat Behaalotecha, 1st Portion (Numbers 8:1-8:14)",
+        "tehilimPortion": "Chapters 77-78",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, Chapter 5"
+      }
+    },
+    {
+      "day": 1,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Twenty One, Shabbat - Chapter Twenty Two, Shabbat - Chapter Twenty Three",
+        "1 Chapter:": "Avodat Kochavim - Chapter Eight",
+        "Daily Mitzvah:": "Day 44: Negative Commandment 321",
+        "date": "Monday, 16 Sivan 5783 / June 5, 2023",
+        "jumashPortion": "Parshat Behaalotecha, 2nd Portion (Numbers 8:15-8:26)",
+        "tehilimPortion": "Chapters 79-82",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, beginning of Chapter 6"
+      }
+    },
+    {
+      "day": 2,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Twenty Four, Shabbat - Chapter Twenty Five, Shabbat - Chapter Twenty Six",
+        "1 Chapter:": "Avodat Kochavim - Chapter Nine",
+        "Daily Mitzvah:": "Day 45: Positive Commandment 155",
+        "date": "Tuesday, 17 Sivan 5783 / June 6, 2023",
+        "jumashPortion": "Parshat Behaalotecha, 3rd Portion (Numbers 9:1-9:14)",
+        "tehilimPortion": "Chapters 83-87",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, middle of Chapter 6"
+      }
+    },
+    {
+      "day": 3,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Twenty Seven, Shabbat - Chapter Twenty Eight, Shabbat - Chapter Twenty Nine",
+        "1 Chapter:": "Avodat Kochavim - Chapter Ten",
+        "Daily Mitzvah:": "Day 46: Positive Commandment 155",
+        "date": "Wednesday, 18 Sivan 5783 / June 7, 2023",
+        "jumashPortion": "Parshat Behaalotecha, 4th Portion (Numbers 9:15-10:10)",
+        "tehilimPortion": "Chapters 88-89",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, end of Chapter 6"
+      }
+    },
+    {
+      "day": 4,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Thirty, Eruvin - Chapter One, Eruvin - Chapter Two",
+        "1 Chapter:": "Avodat Kochavim - Chapter Eleven",
+        "Daily Mitzvah:": "Day 47: Positive Commandment 155",
+        "date": "Thursday, 19 Sivan 5783 / June 8, 2023",
+        "jumashPortion": "Parshat Behaalotecha, 5th Portion (Numbers 10:11-10:34)",
+        "tehilimPortion": "Chapters 90-96",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, beginning of Chapter 7"
+      }
+    },
+    {
+      "day": 5,
+      "data": {
+        "3 Chapters:": "Eruvin - Chapter Three, Eruvin - Chapter Four, Eruvin - Chapter Five",
+        "1 Chapter:": "Avodat Kochavim - Chapter Twelve",
+        "Daily Mitzvah:": "Day 48: Negative Commandment 320",
+        "date": "Friday, 20 Sivan 5783 / June 9, 2023",
+        "jumashPortion": "Parshat Behaalotecha, 6th Portion (Numbers 10:35-11:29)",
+        "tehilimPortion": "Chapters 97-103",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, middle of Chapter 7"
+      }
+    },
+    {
+      "day": 6,
+      "data": {
+        "3 Chapters:": "Eruvin - Chapter Six, Eruvin - Chapter Seven, Eruvin - Chapter Eight",
+        "1 Chapter:": "Teshuvah - Chapter One",
+        "Daily Mitzvah:": "Day 49: Negative Commandment 321",
+        "date": "Shabbat, 21 Sivan 5783 / June 10, 2023",
+        "jumashPortion": "Parshat Behaalotecha, 7th Portion (Numbers 11:30-12:16)",
+        "tehilimPortion": "Chapters 104-105",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, middle of Chapter 7"
+      }
+    }
+  ]
+}

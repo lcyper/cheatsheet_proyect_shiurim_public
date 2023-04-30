@@ -1,1 +1,415 @@
-{"parasha":"Naso","fechaViernes":"Sivan 13, 5783 - Friday, June 2, 2023","velas":[{"locationName":"argentina - buenos aires","time":"5:33 PM"},{"locationName":"argentina - rosario","time":"5:46 PM"},{"locationName":"argentina - tucuman","time":"6:17 PM"},{"locationName":"chile - santiago","time":"5:24 PM"},{"locationName":"colombia - bogota","time":"5:48 PM"},{"locationName":"colombia - medellin","time":"5:56 PM"},{"locationName":"costa rica - san jose","time":"5:37 PM"},{"locationName":"españa - barcelona","time":"9:02 PM"},{"locationName":"españa - madrid","time":"9:21 PM"},{"locationName":"estados unidos - miami florida","time":"7:50 PM"},{"locationName":"israel - raanana","time":"7:22 PM"},{"locationName":"israel - ierushalaim","time":"7:00 PM"},{"locationName":"israel - migdal haemek","time":"7:12 PM"},{"locationName":"mexico - mexico city","time":"7:54 PM"},{"locationName":"panama - panama city","time":"6:17 PM"},{"locationName":"peru - lima","time":"5:32 PM"},{"locationName":"uruguay - montevideo","time":"5:23 PM"},{"locationName":"venezuela - caracas","time":"6:29 PM"}],"study":[{"day":0,"data":{"3 Chapters:":"Order of Prayers - The Text of the Blessings of Shemoneh Esreh and Their Order, Order of Prayers - The Text of All the Intermediate Blessings, Order of Prayers - The Text of the Confession","1 Chapter:":"Talmud Torah - Chapter Seven","Daily Mitzvah:":"Day 36: Nusach HaTefila; Order of Prayer","date":"Sunday, 8 Sivan 5783 / May 28, 2023","jumashPortion":"Parshat Naso, 1st Portion (Numbers 4:21-4:28)","tehilimPortion":"Chapters 44-48","taniaPortion":"Shaar Hayichud Vehaemunah, end of Chapter 1"}},{"day":1,"data":{"3 Chapters:":"Order of Prayers - The Text of the Grace After Meals, Shabbat - Chapter One, Shabbat - Chapter Two","1 Chapter:":"Avodat Kochavim - Chapter One","Daily Mitzvah:":"Day 37: Nusach HaTefila; Order of Prayer; Positive Commandment 154","date":"Monday, 9 Sivan 5783 / May 29, 2023","jumashPortion":"Parshat Naso, 2nd Portion (Numbers 4:29-4:49)","tehilimPortion":"Chapters 49-54","taniaPortion":"Shaar Hayichud Vehaemunah, Chapter 2"}},{"day":2,"data":{"3 Chapters:":"Shabbat - Chapter Three, Shabbat - Chapter Four, Shabbat - Chapter Five","1 Chapter:":"Avodat Kochavim - Chapter Two","Daily Mitzvah:":"Day 38: Positive Commandment 154","date":"Tuesday, 10 Sivan 5783 / May 30, 2023","jumashPortion":"Parshat Naso, 3rd Portion (Numbers 5:1-5:10)","tehilimPortion":"Chapters 55-59","taniaPortion":"Shaar Hayichud Vehaemunah, beginning of Chapter 3"}},{"day":3,"data":{"3 Chapters:":"Shabbat - Chapter Six, Shabbat - Chapter Seven, Shabbat - Chapter Eight","1 Chapter:":"Avodat Kochavim - Chapter Three","Daily Mitzvah:":"Day 39: Negative Commandment 320","date":"Wednesday, 11 Sivan 5783 / May 31, 2023","jumashPortion":"Parshat Naso, 4th Portion (Numbers 5:11-6:27)","tehilimPortion":"Chapters 60-65","taniaPortion":"Shaar Hayichud Vehaemunah, end of Chapter 3"}},{"day":4,"data":{"3 Chapters:":"Shabbat - Chapter Nine, Shabbat - Chapter Ten, Shabbat - Chapter Eleven","1 Chapter:":"Avodat Kochavim - Chapter Four","Daily Mitzvah:":"Day 40: Negative Commandment 320","date":"Thursday, 12 Sivan 5783 / June 1, 2023","jumashPortion":"Parshat Naso, 5th Portion (Numbers 7:1-7:41)","tehilimPortion":"Chapters 66-68","taniaPortion":"Shaar Hayichud Vehaemunah, beginning of Chapter 4"}},{"day":5,"data":{"3 Chapters:":"Shabbat - Chapter Twelve, Shabbat - Chapter Thirteen, Shabbat - Chapter Fourteen","1 Chapter:":"Avodat Kochavim - Chapter Five","Daily Mitzvah:":"Day 41: Negative Commandment 322","date":"Friday, 13 Sivan 5783 / June 2, 2023","jumashPortion":"Parshat Naso, 6th Portion (Numbers 7:42-7:83)","tehilimPortion":"Chapters 69-71","taniaPortion":"Shaar Hayichud Vehaemunah, middle of Chapter 4"}},{"day":6,"data":{"3 Chapters:":"Shabbat - Chapter Fifteen, Shabbat - Chapter Sixteen, Shabbat - Chapter Seventeen","1 Chapter:":"Avodat Kochavim - Chapter Six","Daily Mitzvah:":"Day 42: Negative Commandment 322","date":"Shabbat, 14 Sivan 5783 / June 3, 2023","jumashPortion":"Parshat Naso, 7th Portion (Numbers 7:84-7:89)","tehilimPortion":"Chapters 72-76","taniaPortion":"Shaar Hayichud Vehaemunah, end of Chapter 4"}}]}
+{
+  "parasha": "Naso",
+  "fechaViernes": "Sivan 13, 5783 - Friday, June 2, 2023",
+  "velas": [
+    {
+      "locationName": "argentina - buenos aires",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:33 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:31 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:31 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - cordoba",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "6:03 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "7:00 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:02 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:00 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - rosario",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:46 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:43 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:45 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:43 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - tucuman",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "6:17 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "7:12 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:17 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:12 PM"
+        }
+      }
+    },
+    {
+      "locationName": "chile - santiago",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:24 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:22 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:23 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:22 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - bogota",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:48 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:39 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:49 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:41 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - medellin",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:56 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:48 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:58 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:50 PM"
+        }
+      }
+    },
+    {
+      "locationName": "costa rica - san jose",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:37 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:29 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:38 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:31 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - barcelona",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "9:02 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "10:11 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "9:07 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "10:16 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - madrid",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "9:21 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "10:29 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "9:26 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "10:34 PM"
+        }
+      }
+    },
+    {
+      "locationName": "estados unidos - miami florida",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "7:50 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "8:47 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:53 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:51 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - raanana",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "7:22 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "8:25 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:26 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:29 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - ierushalaim",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "7:00 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "8:22 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:04 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:26 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - migdal haemek",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "7:12 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "8:25 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "7:16 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "8:29 PM"
+        }
+      }
+    },
+    {
+      "locationName": "mexico - mexico city",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "6:54 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "7:48 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:56 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:51 PM"
+        }
+      }
+    },
+    {
+      "locationName": "panama - panama city",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "6:17 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "7:09 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:18 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:11 PM"
+        }
+      }
+    },
+    {
+      "locationName": "peru - lima",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:24 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:25 PM"
+        }
+      }
+    },
+    {
+      "locationName": "uruguay - montevideo",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "5:23 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "6:22 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "5:22 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "6:21 PM"
+        }
+      }
+    },
+    {
+      "locationName": "venezuela - caracas",
+      "time": {
+        "Sivan 13, 5783 - Friday, June 2, 2023": {
+          "Candle Lighting": "6:29 PM"
+        },
+        "Sivan 14, 5783 - Saturday, June 3, 2023": {
+          "Shabbat Ends": "7:21 PM"
+        },
+        "Sivan 20, 5783 - Friday, June 9, 2023": {
+          "Candle Lighting": "6:31 PM"
+        },
+        "Sivan 21, 5783 - Saturday, June 10, 2023": {
+          "Shabbat Ends": "7:23 PM"
+        }
+      }
+    }
+  ],
+  "study": [
+    {
+      "day": 0,
+      "data": {
+        "3 Chapters:": "Order of Prayers - The Text of the Blessings of Shemoneh Esreh and Their Order, Order of Prayers - The Text of All the Intermediate Blessings, Order of Prayers - The Text of the Confession",
+        "1 Chapter:": "Talmud Torah - Chapter Seven",
+        "Daily Mitzvah:": "Day 36: Nusach HaTefila; Order of Prayer",
+        "date": "Sunday, 8 Sivan 5783 / May 28, 2023",
+        "jumashPortion": "Parshat Naso, 1st Portion (Numbers 4:21-4:28)",
+        "tehilimPortion": "Chapters 44-48",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, end of Chapter 1"
+      }
+    },
+    {
+      "day": 1,
+      "data": {
+        "3 Chapters:": "Order of Prayers - The Text of the Grace After Meals, Shabbat - Chapter One, Shabbat - Chapter Two",
+        "1 Chapter:": "Avodat Kochavim - Chapter One",
+        "Daily Mitzvah:": "Day 37: Nusach HaTefila; Order of Prayer; Positive Commandment 154",
+        "date": "Monday, 9 Sivan 5783 / May 29, 2023",
+        "jumashPortion": "Parshat Naso, 2nd Portion (Numbers 4:29-4:49)",
+        "tehilimPortion": "Chapters 49-54",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, Chapter 2"
+      }
+    },
+    {
+      "day": 2,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Three, Shabbat - Chapter Four, Shabbat - Chapter Five",
+        "1 Chapter:": "Avodat Kochavim - Chapter Two",
+        "Daily Mitzvah:": "Day 38: Positive Commandment 154",
+        "date": "Tuesday, 10 Sivan 5783 / May 30, 2023",
+        "jumashPortion": "Parshat Naso, 3rd Portion (Numbers 5:1-5:10)",
+        "tehilimPortion": "Chapters 55-59",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, beginning of Chapter 3"
+      }
+    },
+    {
+      "day": 3,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Six, Shabbat - Chapter Seven, Shabbat - Chapter Eight",
+        "1 Chapter:": "Avodat Kochavim - Chapter Three",
+        "Daily Mitzvah:": "Day 39: Negative Commandment 320",
+        "date": "Wednesday, 11 Sivan 5783 / May 31, 2023",
+        "jumashPortion": "Parshat Naso, 4th Portion (Numbers 5:11-6:27)",
+        "tehilimPortion": "Chapters 60-65",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, end of Chapter 3"
+      }
+    },
+    {
+      "day": 4,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Nine, Shabbat - Chapter Ten, Shabbat - Chapter Eleven",
+        "1 Chapter:": "Avodat Kochavim - Chapter Four",
+        "Daily Mitzvah:": "Day 40: Negative Commandment 320",
+        "date": "Thursday, 12 Sivan 5783 / June 1, 2023",
+        "jumashPortion": "Parshat Naso, 5th Portion (Numbers 7:1-7:41)",
+        "tehilimPortion": "Chapters 66-68",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, beginning of Chapter 4"
+      }
+    },
+    {
+      "day": 5,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Twelve, Shabbat - Chapter Thirteen, Shabbat - Chapter Fourteen",
+        "1 Chapter:": "Avodat Kochavim - Chapter Five",
+        "Daily Mitzvah:": "Day 41: Negative Commandment 322",
+        "date": "Friday, 13 Sivan 5783 / June 2, 2023",
+        "jumashPortion": "Parshat Naso, 6th Portion (Numbers 7:42-7:83)",
+        "tehilimPortion": "Chapters 69-71",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, middle of Chapter 4"
+      }
+    },
+    {
+      "day": 6,
+      "data": {
+        "3 Chapters:": "Shabbat - Chapter Fifteen, Shabbat - Chapter Sixteen, Shabbat - Chapter Seventeen",
+        "1 Chapter:": "Avodat Kochavim - Chapter Six",
+        "Daily Mitzvah:": "Day 42: Negative Commandment 322",
+        "date": "Shabbat, 14 Sivan 5783 / June 3, 2023",
+        "jumashPortion": "Parshat Naso, 7th Portion (Numbers 7:84-7:89)",
+        "tehilimPortion": "Chapters 72-76",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, end of Chapter 4"
+      }
+    }
+  ]
+}

@@ -1,1 +1,352 @@
-{"parasha":"Shavuot","fechaViernes":"Sivan 5, 5783 - Thursday, May 25, 2023","velas":[{"locationName":"argentina - buenos aires","time":"5:36 PM"},{"locationName":"argentina - rosario","time":"5:48 PM"},{"locationName":"argentina - tucuman","time":"6:19 PM"},{"locationName":"chile - santiago","time":"5:27 PM"},{"locationName":"colombia - bogota","time":"5:46 PM"},{"locationName":"colombia - medellin","time":"5:55 PM"},{"locationName":"costa rica - san jose","time":"5:34 PM"},{"locationName":"españa - barcelona","time":"8:56 PM"},{"locationName":"españa - madrid","time":"9:15 PM"},{"locationName":"estados unidos - miami florida","time":"7:47 PM"},{"locationName":"israel - raanana","time":"7:18 PM"},{"locationName":"israel - ierushalaim","time":"6:55 PM"},{"locationName":"israel - migdal haemek","time":"7:07 PM"},{"locationName":"mexico - mexico city","time":"7:51 PM"},{"locationName":"panama - panama city","time":"6:15 PM"},{"locationName":"peru - lima","time":"5:32 PM"},{"locationName":"uruguay - montevideo","time":"5:26 PM"},{"locationName":"venezuela - caracas","time":"6:27 PM"}],"study":[{"day":0,"data":{"3 Chapters:":"Tefillin, Mezuzah and Sefer Torah - Chapter Eight, Tefillin, Mezuzah and Sefer Torah - Chapter Nine, Tefillin, Mezuzah and Sefer Torah - Chapter Ten","1 Chapter:":"De'ot - Chapter Seven","Daily Mitzvah:":"Day 29: Positive Commandment 17","date":"Sunday, 1 Sivan 5783 / May 21, 2023","jumashPortion":"Parshat Naso, 1st Portion (Numbers 4:21-4:28)","tehilimPortion":"Chapters 1-9","taniaPortion":"Likutei Amarim, beginning of Chapter 53"}},{"day":1,"data":{"3 Chapters:":"Tzitzit - Chapter One, Tzitzit - Chapter Two, Tzitzit - Chapter Three","1 Chapter:":"Talmud Torah - Chapter One","Daily Mitzvah:":"Day 30: Positive Commandment 14","date":"Monday, 2 Sivan 5783 / May 22, 2023","jumashPortion":"Parshat Naso, 2nd Portion (Numbers 4:29-4:49)","tehilimPortion":"Chapters 10-17","taniaPortion":"Likutei Amarim, middle of Chapter 53"}},{"day":2,"data":{"3 Chapters:":"Berachot - Chapter One, Berachot - Chapter Two, Berachot - Chapter Three","1 Chapter:":"Talmud Torah - Chapter Two","Daily Mitzvah:":"Day 31: Positive Commandment 19","date":"Tuesday, 3 Sivan 5783 / May 23, 2023","jumashPortion":"Parshat Naso, 3rd Portion (Numbers 5:1-5:10)","tehilimPortion":"Chapters 18-22","taniaPortion":"Likutei Amarim, end of Chapter 53"}},{"day":3,"data":{"3 Chapters:":"Berachot - Chapter Four, Berachot - Chapter Five, Berachot - Chapter Six","1 Chapter:":"Talmud Torah - Chapter Three","Daily Mitzvah:":"Day 32: Positive Commandment 19","date":"Wednesday, 4 Sivan 5783 / May 24, 2023","jumashPortion":"Parshat Naso, 4th Portion (Numbers 5:11-6:27)","tehilimPortion":"Chapters 23-28","taniaPortion":"Shaar Hayichud Vehaemunah, beginning of Introduction"}},{"day":4,"data":{"3 Chapters:":"Berachot - Chapter Seven, Berachot - Chapter Eight, Berachot - Chapter Nine","1 Chapter:":"Talmud Torah - Chapter Four","Daily Mitzvah:":"Day 33: Positive Commandment 19","date":"Thursday, 5 Sivan 5783 / May 25, 2023","jumashPortion":"Parshat Naso, 5th Portion (Numbers 7:1-7:41)","tehilimPortion":"Chapters 29-34","taniaPortion":"Shaar Hayichud Vehaemunah, middle of Introduction"}},{"day":5,"data":{"3 Chapters:":"Berachot - Chapter Ten, Berachot - Chapter Eleven, Milah - Chapter One","1 Chapter:":"Talmud Torah - Chapter Five","Daily Mitzvah:":"Day 34: Positive Commandment 19, 215","date":"Friday, 6 Sivan 5783 / May 26, 2023","jumashPortion":"Parshat Naso, 6th Portion (Numbers 7:42-7:83)","tehilimPortion":"Chapters 35-38","taniaPortion":"Shaar Hayichud Vehaemunah, end of Introduction"}},{"day":6,"data":{"3 Chapters:":"Milah - Chapter Two, Milah - Chapter Three, Order of Prayers - The Order of Prayer for the Entire Year","1 Chapter:":"Talmud Torah - Chapter Six","Daily Mitzvah:":"Day 35: Positive Commandment 215; Nusach HaTefila","date":"Shabbat, 7 Sivan 5783 / May 27, 2023","jumashPortion":"Parshat Naso, 7th Portion (Numbers 7:84-7:89)","tehilimPortion":"Chapters 39-43","taniaPortion":"Shaar Hayichud Vehaemunah, beginning of Chapter 1"}}]}
+{
+  "parasha": "Shavuot - undefined",
+  "fechaViernes": "Sivan 5, 5783 - Thursday, May 25, 2023",
+  "velas": [
+    {
+      "locationName": "argentina - buenos aires",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:36 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:35 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:33 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - cordoba",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "6:06 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "6:05 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "7:02 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - rosario",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:48 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:48 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:45 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - tucuman",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "6:19 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "6:19 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "7:13 PM"
+        }
+      }
+    },
+    {
+      "locationName": "chile - santiago",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:27 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:27 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:24 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - bogota",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:46 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:46 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:38 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - medellin",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:55 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:55 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:46 PM"
+        }
+      }
+    },
+    {
+      "locationName": "costa rica - san jose",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:34 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:35 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:27 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - barcelona",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "8:56 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "8:57 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "10:05 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - madrid",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "9:15 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "9:16 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "10:23 PM"
+        }
+      }
+    },
+    {
+      "locationName": "estados unidos - miami florida",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "7:47 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "7:47 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "8:44 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - raanana",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "7:18 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "7:18 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": { "Shabbat Ends": "8:20 PM" }
+      }
+    },
+    {
+      "locationName": "israel - ierushalaim",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "6:55 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "6:56 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": { "Shabbat Ends": "8:18 PM" }
+      }
+    },
+    {
+      "locationName": "israel - migdal haemek",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "7:07 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "7:08 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": { "Shabbat Ends": "8:20 PM" }
+      }
+    },
+    {
+      "locationName": "mexico - mexico city",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "6:51 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "6:51 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "7:45 PM"
+        }
+      }
+    },
+    {
+      "locationName": "panama - panama city",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "6:15 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "6:15 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "7:07 PM"
+        }
+      }
+    },
+    {
+      "locationName": "peru - lima",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:32 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:23 PM"
+        }
+      }
+    },
+    {
+      "locationName": "uruguay - montevideo",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "5:26 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "5:26 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "6:24 PM"
+        }
+      }
+    },
+    {
+      "locationName": "venezuela - caracas",
+      "time": {
+        "Sivan 5, 5783 - Thursday, May 25, 2023": {
+          "Candle Lighting": "6:27 PM"
+        },
+        "Sivan 6, 5783 - Friday, May 26, 2023": {
+          "Candle Lighting": "6:27 PM"
+        },
+        "Sivan 7, 5783 - Saturday, May 27, 2023": {
+          "Shabbat/Holiday Ends": "7:19 PM"
+        }
+      }
+    }
+  ],
+  "study": [
+    {
+      "day": 0,
+      "data": {
+        "3 Chapters:": "Tefillin, Mezuzah and Sefer Torah - Chapter Eight, Tefillin, Mezuzah and Sefer Torah - Chapter Nine, Tefillin, Mezuzah and Sefer Torah - Chapter Ten",
+        "1 Chapter:": "De'ot - Chapter Seven",
+        "Daily Mitzvah:": "Day 29: Positive Commandment 17",
+        "date": "Sunday, 1 Sivan 5783 / May 21, 2023",
+        "jumashPortion": "Parshat Naso, 1st Portion (Numbers 4:21-4:28)",
+        "tehilimPortion": "Chapters 1-9",
+        "taniaPortion": "Likutei Amarim, beginning of Chapter 53"
+      }
+    },
+    {
+      "day": 1,
+      "data": {
+        "3 Chapters:": "Tzitzit - Chapter One, Tzitzit - Chapter Two, Tzitzit - Chapter Three",
+        "1 Chapter:": "Talmud Torah - Chapter One",
+        "Daily Mitzvah:": "Day 30: Positive Commandment 14",
+        "date": "Monday, 2 Sivan 5783 / May 22, 2023",
+        "jumashPortion": "Parshat Naso, 2nd Portion (Numbers 4:29-4:49)",
+        "tehilimPortion": "Chapters 10-17",
+        "taniaPortion": "Likutei Amarim, middle of Chapter 53"
+      }
+    },
+    {
+      "day": 2,
+      "data": {
+        "3 Chapters:": "Berachot - Chapter One, Berachot - Chapter Two, Berachot - Chapter Three",
+        "1 Chapter:": "Talmud Torah - Chapter Two",
+        "Daily Mitzvah:": "Day 31: Positive Commandment 19",
+        "date": "Tuesday, 3 Sivan 5783 / May 23, 2023",
+        "jumashPortion": "Parshat Naso, 3rd Portion (Numbers 5:1-5:10)",
+        "tehilimPortion": "Chapters 18-22",
+        "taniaPortion": "Likutei Amarim, end of Chapter 53"
+      }
+    },
+    {
+      "day": 3,
+      "data": {
+        "3 Chapters:": "Berachot - Chapter Four, Berachot - Chapter Five, Berachot - Chapter Six",
+        "1 Chapter:": "Talmud Torah - Chapter Three",
+        "Daily Mitzvah:": "Day 32: Positive Commandment 19",
+        "date": "Wednesday, 4 Sivan 5783 / May 24, 2023",
+        "jumashPortion": "Parshat Naso, 4th Portion (Numbers 5:11-6:27)",
+        "tehilimPortion": "Chapters 23-28",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, beginning of Introduction"
+      }
+    },
+    {
+      "day": 4,
+      "data": {
+        "3 Chapters:": "Berachot - Chapter Seven, Berachot - Chapter Eight, Berachot - Chapter Nine",
+        "1 Chapter:": "Talmud Torah - Chapter Four",
+        "Daily Mitzvah:": "Day 33: Positive Commandment 19",
+        "date": "Thursday, 5 Sivan 5783 / May 25, 2023",
+        "jumashPortion": "Parshat Naso, 5th Portion (Numbers 7:1-7:41)",
+        "tehilimPortion": "Chapters 29-34",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, middle of Introduction"
+      }
+    },
+    {
+      "day": 5,
+      "data": {
+        "3 Chapters:": "Berachot - Chapter Ten, Berachot - Chapter Eleven, Milah - Chapter One",
+        "1 Chapter:": "Talmud Torah - Chapter Five",
+        "Daily Mitzvah:": "Day 34: Positive Commandment 19, 215",
+        "date": "Friday, 6 Sivan 5783 / May 26, 2023",
+        "jumashPortion": "Parshat Naso, 6th Portion (Numbers 7:42-7:83)",
+        "tehilimPortion": "Chapters 35-38",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, end of Introduction"
+      }
+    },
+    {
+      "day": 6,
+      "data": {
+        "3 Chapters:": "Milah - Chapter Two, Milah - Chapter Three, Order of Prayers - The Order of Prayer for the Entire Year",
+        "1 Chapter:": "Talmud Torah - Chapter Six",
+        "Daily Mitzvah:": "Day 35: Positive Commandment 215; Nusach HaTefila",
+        "date": "Shabbat, 7 Sivan 5783 / May 27, 2023",
+        "jumashPortion": "Parshat Naso, 7th Portion (Numbers 7:84-7:89)",
+        "tehilimPortion": "Chapters 39-43",
+        "taniaPortion": "Shaar Hayichud Vehaemunah, beginning of Chapter 1"
+      }
+    }
+  ]
+}
