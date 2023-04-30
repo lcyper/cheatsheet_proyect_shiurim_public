@@ -47,7 +47,6 @@ async function fetchDate(e) {
     let response = await fetch("./json/" + date + ".json");
     response = await response.json();
     json = response;
-    console.log(json);
     putData(json);
     document.getElementById("info").style.display = "block";
   } catch (error) {
@@ -84,9 +83,6 @@ function putData(json) {
     json.study[6].data.date;
   fechaSemana.innerHTML = concatFechas;
 
-  //   let fechaViernes = document.getElementById("fecha_viernes");
-  //   fechaViernes.textContent = json.fechaViernes;
-
   let fragmentVelas = document.createDocumentFragment();
   let trCandlesDate = document.createElement("tr");
   //   trCandlesDate.appendChild(document.createElement("th"));
@@ -98,6 +94,19 @@ function putData(json) {
     thTime.className = "candlesDate";
     trCandlesDate.appendChild(thTime);
   }
+
+  // ['Candle Lighting', 'Shabbat Ends']
+  const candleTitles = Object.values(json.velas[0].time)
+    .map((value) => Object.keys(value))
+    .flat();
+  const trTimeTitles = document.createElement("tr");
+  candleTitles.forEach((title) => {
+    const thTitles = document.createElement("th");
+    thTitles.className = "candlesDate";
+    thTitles.innerText = title;
+    trTimeTitles.appendChild(thTitles);
+  });
+  fragmentVelas.appendChild(trTimeTitles);
 
   for (const location of json.velas) {
     let tr = document.createElement("tr");
@@ -116,10 +125,13 @@ function putData(json) {
         let tdTime = document.createElement("td");
         daysTime.push(tdTime);
       }
-      let tdTime = document.createElement("td");
-      tdTime.textContent = location.time[day];
-      tdTime.className = "time";
-      daysTime.push(tdTime);
+
+      for (const [key, value] of Object.entries(location.time[day])) {
+        let tdTime = document.createElement("td");
+        tdTime.textContent = value;
+        tdTime.className = "time";
+        daysTime.push(tdTime);
+      }
     }
 
     tr.append(tdName, ...daysTime);
