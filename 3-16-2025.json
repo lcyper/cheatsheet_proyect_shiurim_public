@@ -1,0 +1,431 @@
+{
+  "velas": [
+    {
+      "locationName": "argentina - buenos aires",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:45 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:39 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:35 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:29 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - cordoba",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "7:08 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "8:01 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:59 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:52 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - rosario",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:54 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:47 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:45 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:38 PM"
+        }
+      }
+    },
+    {
+      "locationName": "argentina - tucuman",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "7:12 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "8:04 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "7:05 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:56 PM"
+        }
+      }
+    },
+    {
+      "locationName": "chile - santiago",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "7:34 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "8:27 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "7:25 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "8:18 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - bogota",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "5:49 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "6:37 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "5:48 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "6:36 PM"
+        }
+      }
+    },
+    {
+      "locationName": "colombia - medellin",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "5:55 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "6:44 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "5:54 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "6:43 PM"
+        }
+      }
+    },
+    {
+      "locationName": "costa rica - san jose",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "5:29 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "6:18 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "5:29 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "6:18 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - barcelona",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:47 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:47 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:54 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:55 PM"
+        }
+      }
+    },
+    {
+      "locationName": "españa - madrid",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "7:10 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "8:10 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "7:17 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "8:17 PM"
+        }
+      }
+    },
+    {
+      "locationName": "estados unidos - New York",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:51 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:51 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:59 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:59 PM"
+        }
+      }
+    },
+    {
+      "locationName": "estados unidos - miami florida",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "7:15 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "8:07 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "7:18 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "8:11 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - raanana",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "5:33 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "6:30 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:38 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:35 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - ierushalaim",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "5:11 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "6:28 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:16 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:33 PM"
+        }
+      }
+    },
+    {
+      "locationName": "israel - migdal haemek",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "5:21 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "6:29 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:26 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:34 PM"
+        }
+      }
+    },
+    {
+      "locationName": "mexico - mexico city",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:30 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:21 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:32 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:23 PM"
+        }
+      }
+    },
+    {
+      "locationName": "panama - panama city",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:11 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:00 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:10 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:00 PM"
+        }
+      }
+    },
+    {
+      "locationName": "peru - lima",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:00 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "6:49 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "5:56 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "6:44 PM"
+        }
+      }
+    },
+    {
+      "locationName": "uruguay - montevideo",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:36 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:30 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:26 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:20 PM"
+        }
+      }
+    },
+    {
+      "locationName": "venezuela - caracas",
+      "time": {
+        "Adar 21, 5785 - Friday, March 21, 2025": {
+          "Candle Lighting": "6:20 PM"
+        },
+        "Adar 22, 5785 - Saturday, March 22, 2025": {
+          "Shabbat Ends": "7:10 PM"
+        },
+        "Adar 28, 5785 - Friday, March 28, 2025": {
+          "Candle Lighting": "6:20 PM"
+        },
+        "Adar 29, 5785 - Saturday, March 29, 2025": {
+          "Shabbat Ends": "7:10 PM"
+        }
+      }
+    }
+  ],
+  "study": [
+    {
+      "day": 0,
+      "data": {
+        "3 Chapters:": "Avodat Kochavim - Chapter Ten, Avodat Kochavim - Chapter Eleven, Avodat Kochavim - Chapter Twelve",
+        "1 Chapter:": "Keilim - Chapter 9",
+        "Daily Mitzvah:": "Day 16: Negative Commandment 35, 38, 36, 37, 34, 43, 44, 40, 39, 41, 45, 171",
+        "date": "Sunday, 16 Adar 5785 / March 16, 2025",
+        "jumashPortion": "Parshat Vayak'hel, 1st Portion (Shemot (Exodus) 35:1-35:20)",
+        "tehilimPortion": "Chapters 79-82",
+        "taniaPortion": "Likutei Amarim, beginning of Chapter 35"
+      }
+    },
+    {
+      "day": 1,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter One, Teshuvah - Chapter Two, Teshuvah - Chapter Three",
+        "1 Chapter:": "Keilim - Chapter 10",
+        "Daily Mitzvah:": "Day 17: Positive Commandment 73",
+        "date": "Monday, 17 Adar 5785 / March 17, 2025",
+        "jumashPortion": "Parshat Vayak'hel, 2nd Portion (Shemot (Exodus) 35:21-35:29)",
+        "tehilimPortion": "Chapters 83-87",
+        "taniaPortion": "Likutei Amarim, middle of Chapter 35"
+      }
+    },
+    {
+      "day": 2,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter Four, Teshuvah - Chapter Five, Teshuvah - Chapter Six",
+        "1 Chapter:": "Keilim - Chapter 11",
+        "Daily Mitzvah:": "Day 18: Positive Commandment 73",
+        "date": "Tuesday, 18 Adar 5785 / March 18, 2025",
+        "jumashPortion": "Parshat Vayak'hel, 3rd Portion (Shemot (Exodus) 35:30-36:7)",
+        "tehilimPortion": "Chapters 88-89",
+        "taniaPortion": "Likutei Amarim, middle of Chapter 35"
+      }
+    },
+    {
+      "day": 3,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter Seven, Teshuvah - Chapter Eight, Teshuvah - Chapter Nine",
+        "1 Chapter:": "Keilim - Chapter 12",
+        "Daily Mitzvah:": "Day 19: Positive Commandment 73",
+        "date": "Wednesday, 19 Adar 5785 / March 19, 2025",
+        "jumashPortion": "Parshat Vayak'hel, 4th Portion (Shemot (Exodus) 36:8-36:19)",
+        "tehilimPortion": "Chapters 90-96",
+        "taniaPortion": "Likutei Amarim, middle of Chapter 35"
+      }
+    },
+    {
+      "day": 4,
+      "data": {
+        "3 Chapters:": "Teshuvah - Chapter Ten, Kri'at Shema - Chapter One, Kri'at Shema - Chapter Two",
+        "1 Chapter:": "Keilim - Chapter 13",
+        "Daily Mitzvah:": "Day 20: Positive Commandment 73, 10",
+        "date": "Thursday, 20 Adar 5785 / March 20, 2025",
+        "jumashPortion": "Parshat Vayak'hel, 5th Portion (Shemot (Exodus) 36:20-37:16)",
+        "tehilimPortion": "Chapters 97-103",
+        "taniaPortion": "Likutei Amarim, end of Chapter 35"
+      }
+    },
+    {
+      "day": 5,
+      "data": {
+        "3 Chapters:": "Kri'at Shema - Chapter Three, Kri'at Shema - Chapter Four, Tefilah and Birkat Kohanim - Chapter One",
+        "1 Chapter:": "Keilim - Chapter 14",
+        "Daily Mitzvah:": "Day 21: Positive Commandment 10, 5",
+        "date": "Friday, 21 Adar 5785 / March 21, 2025",
+        "jumashPortion": "Parshat Vayak'hel, 6th Portion (Shemot (Exodus) 37:17-37:29)",
+        "tehilimPortion": "Chapters 104-105",
+        "taniaPortion": "Likutei Amarim, beginning of Chapter 36"
+      }
+    },
+    {
+      "day": 6,
+      "data": {
+        "3 Chapters:": "Tefilah and Birkat Kohanim - Chapter Two, Tefilah and Birkat Kohanim - Chapter Three, Tefilah and Birkat Kohanim - Chapter Four",
+        "1 Chapter:": "Keilim - Chapter 15",
+        "Daily Mitzvah:": "Day 22: Positive Commandment 5",
+        "date": "Shabbat, 22 Adar 5785 / March 22, 2025",
+        "jumashPortion": "Parshat Vayak'hel, 7th Portion (Shemot (Exodus) 38:1-38:20)",
+        "tehilimPortion": "Chapters 106-107",
+        "taniaPortion": "Likutei Amarim, end of Chapter 36"
+      }
+    }
+  ],
+  "parasha": "Vayak'hel"
+}
