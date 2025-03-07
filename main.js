@@ -71,6 +71,25 @@ function getCurrentDate() {
   return currentDate;
 }
 
+function generateUrlLocationFrom(locationUrl) {
+  const params = getQueryParams(locationUrl);
+  return `https://www.chabad.org/calendar/candlelighting_cdo/locationid/${params.locationid}/locationtype/1/tdate/${params.tdate}`;
+}
+
+function getQueryParams(url) {
+  const params = {};
+  const queryString = url.split("?")[1]; // Obtener la parte después de "?"
+
+  if (!queryString) return params; // Retornar vacío si no hay parámetros
+
+  queryString.split("&").forEach((param) => {
+    const [key, value] = param.split("=");
+    params[decodeURIComponent(key)] = decodeURIComponent(value || ""); // Decodificar valores
+  });
+
+  return params;
+}
+
 function putData(json) {
   let parasha = document.querySelector("#parasha");
   parasha.textContent = "Parasha: " + json.parasha;
@@ -112,9 +131,13 @@ function putData(json) {
     let tr = document.createElement("tr");
     let tdName = document.createElement("td");
     tdName.className = "locationName";
-    tdName.textContent = capitalizeTheFirstLetterOfEachWord(
+
+    let aName = document.createElement("a");
+    aName.href = generateUrlLocationFrom(location.url);
+    aName.textContent = capitalizeTheFirstLetterOfEachWord(
       location.locationName
     );
+    tdName.appendChild(aName);
 
     let daysTime = [];
     let adjustIndex = 0;
